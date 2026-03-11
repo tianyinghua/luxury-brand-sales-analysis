@@ -11,5 +11,6 @@ The analysis was conducted using Excel pivot tables and basic calculations to co
 The results highlight differences in marketing effectiveness and sales performance across luxury brands.
 
 ## Files
-data/ – raw dataset  
-report/ – project report (PDF)
+
+- [Dataset](data/luxury_brand_sales_analysis.xlsx)
+- [Project Report](report/luxury_brand_sales_report.pdf)
