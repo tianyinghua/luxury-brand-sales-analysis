@@ -8,7 +8,17 @@ The analysis was conducted using Excel pivot tables and basic calculations to co
 - Marketing growth
 - Marketing efficiency
 
-The results highlight differences in marketing effectiveness and sales performance across luxury brands.
+## Tools Used
+
+- Excel
+- Pivot Tables
+- Basic Data Analysis
+
+## Key Insights
+
+- Sales growth varies across luxury brands.
+- Marketing efficiency differs significantly between brands.
+- Higher marketing spending does not always result in higher sales growth.
 
 ## Files
 
